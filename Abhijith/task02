@@ -6,7 +6,7 @@
     return colors[1]
   }
 console.log(getsecondcolor(["red","blue","green","yellow","purple"]))
-}
+
 
 
 // Expected Output: blue
