@@ -13,7 +13,7 @@ console.log(getType("Hello"));
 // Expected Output: string
 console.log(getType([1, 2, 3])); 
 // Expected Output: object
-console.log(getType({ name: "Alan" })); 
+console.log(getType({ name: "Karthik" })); 
 // Expected Output: object
 console.log(getType(undefined)); 
 // Expected Output: undefined
